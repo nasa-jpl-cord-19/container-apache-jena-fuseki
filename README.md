@@ -2,7 +2,7 @@
 
 ## Building
 
-You'll need to supply your own copy of `apache-jena-fuseki-3.14.0.tar.gz` and `covid19_knowledge_graph.ttl` as they were to big to include in this repo, plus they really shouldn't be in an SCM anyway.
+You'll need to supply your own copy of [apache-jena-fuseki-3.14.0.tar.gz](https://downloads.apache.org/jena/binaries/apache-jena-fuseki-3.14.0.tar.gz) and [covid19_knowledge_graph.ttl](https://github.com/nasa-jpl-cord-19/covid19-knowledge-graph#output) as they were to big to include in this repo, plus they really shouldn't be in an SCM anyway.
 
 After you have those two dependencies here.
 
